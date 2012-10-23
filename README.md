@@ -1,5 +1,4 @@
-labs-bbc-patterns
-=================
+# labs-bbc-patterns
 
 Sample Code for the betabeers Design Patterns Talk including patterns with some variations for...
 
@@ -11,10 +10,10 @@ Sample Code for the betabeers Design Patterns Talk including patterns with some 
 - Façade
 - Proxy
 
-# Code
+## Code
 
 https://github.com/47deg/labs-bbc-patterns/tree/master/src/main/java/com/fortysevendeg/bbc/patterns
 
-# Tests
+## Tests
 
 https://github.com/47deg/labs-bbc-patterns/tree/master/src/test/java/com/fortysevendeg/bbc/patterns

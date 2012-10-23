@@ -11,5 +11,10 @@ Sample Code for the betabeers Design Patterns Talk including patterns with some 
 - Façade
 - Proxy
 
-[Code] (https://github.com/47deg/labs-bbc-patterns/tree/master/src/main/java/com/fortysevendeg/bbc/patterns)
-[Tests] (https://github.com/47deg/labs-bbc-patterns/tree/master/src/test/java/com/fortysevendeg/bbc/patterns)
+# Code
+
+https://github.com/47deg/labs-bbc-patterns/tree/master/src/main/java/com/fortysevendeg/bbc/patterns
+
+# Tests
+
+https://github.com/47deg/labs-bbc-patterns/tree/master/src/test/java/com/fortysevendeg/bbc/patterns
